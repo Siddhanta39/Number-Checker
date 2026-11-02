@@ -1,1 +1,1 @@
-<<<<<<< HEAD Solution for https://roadmap.sh/projects/js-number-checker
+Solution for https://roadmap.sh/projects/js-number-checker
